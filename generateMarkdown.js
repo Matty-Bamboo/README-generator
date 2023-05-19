@@ -67,7 +67,8 @@ ${renderLicenseSection(data.license)}
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [Tests](#tests)
-- [License](#questions)
+- [License](#license)
+- [Questions](#questions)
 
 ## Installation
 ${data.installation}

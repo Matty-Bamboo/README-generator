@@ -23,7 +23,7 @@ inquirer package
 Generate a command line README from your terminal
 
 ## Contributing
-UCB Extension
+UCB Extension Coding Bootcamp
 
 ## Tests
 None
