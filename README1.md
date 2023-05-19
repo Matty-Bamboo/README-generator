@@ -1,5 +1,5 @@
-# Matts Blog
-  The Life & Times of Matt Miceli
+# README Generator
+  Create a command-line application that dynamically generates a professional README.md file from a user's input using the Inquirer package
 
 
 ## License
@@ -17,13 +17,13 @@ This application is covered under the [MIT License](https://opensource.org/licen
 - [License](#questions)
 
 ## Installation
-N/A
+inquirer package
 
 ## Usage
-For Personal Use Only
+Generate a command line README from your terminal
 
 ## Contributing
-Google & YouTube
+UCB Extension
 
 ## Tests
 None
