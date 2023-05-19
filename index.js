@@ -41,6 +41,18 @@ const questions = [
         message: 'Choose a license for your application',
         choices: ['None', 'Apache', 'GNU', 'MIT', 'BSD 2-Clause', 'BSD 3-Clause'],
     },
+    {
+        type: 'input',
+        name: 'githubUsername',
+        message: 'Provide your Github Username'
+
+    },
+    {
+        type: 'input',
+        name: 'emailAddress',
+        message: 'Provide your email address'
+
+    }
 ]
 
 

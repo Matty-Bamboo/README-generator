@@ -58,9 +58,36 @@ This application is covered under the [${license} License](${licenseLink}).
 // TODO: Create a function to generate markdown for README
 function generateMarkdown(data) {
   return `# ${data.title}
+  ${data.description}
 
-##License
 ${renderLicenseSection(data.license)}
+
+## Table of Contents
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [Tests](#tests)
+- [License](#questions)
+
+## Installation
+${data.installation}
+
+## Usage
+${data.usage}
+
+## Contributing
+${data.contributing}
+
+## Tests
+${data.tests}
+
+## Questions
+You can find me on Github at https://github.com/${data.githubUsername}
+>
+If you have any additional questions please email me
+>  
+${data.emailAddress}
+
 `;
 }
 
