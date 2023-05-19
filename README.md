@@ -14,6 +14,9 @@ Readme Generator using node.js
 README Generator creates a professional README using node.js
 ![README](./Screenshot.png)
 
+Demonstration of how it works
+[Link to Video](https://drive.google.com/file/d/1L0ZzuG-BrIoH3Nm3_hwXYNa1hq4lCCio/view)
+
 ## Technologies
 - [node.js](https://nodejs.org/en): version 18.16
 - [nmp inquirer 8.2.4](https://www.npmjs.com/package/inquirer/v/8.2.4): version8.2.4

@@ -14,19 +14,20 @@ This application is covered under the [MIT License](https://opensource.org/licen
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [Tests](#tests)
-- [License](#questions)
+- [License](#license)
+- [Questions](#questions)
 
 ## Installation
 inquirer package
 
 ## Usage
-Generate a command line README from your terminal
+generate a command line README file from your terminal
 
 ## Contributing
-UCB Extension Coding Bootcamp
+UCB Extension and google
 
 ## Tests
-None
+none
 
 ## Questions
 You can find me on Github at https://github.com/matty-bamboo
