@@ -12,7 +12,7 @@ Readme Generator using node.js
 ## Mock-up
 
 README Generator creates a professional README using node.js
-!git[README](./Screenshot.png)
+![README](./Screenshot.png)
 
 ## Technologies
 - [node.js](https://nodejs.org/en): version 18.16
